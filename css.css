@@ -1,0 +1,112 @@
+/* CSS Document */
+
+body{
+padding:0px;
+margin:0px;
+background-color:#4F656F;
+}
+.news{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#52514E;
+text-align:justify;
+}
+.news a{
+color:#006699;
+text-decoration:underline;
+}
+.news a:hover{
+color:#CC0000;
+text-decoration:none;
+}
+.welcome{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#45391C;
+	text-align:justify;
+	}
+.welcome a{
+color:#0066CC;
+text-decoration:none;
+}
+.welcome a:hover{
+color:#CC0000;
+text-decoration:none;
+}
+.bul{
+background-image:url(images/index_51.gif);
+background-repeat:no-repeat;
+background-position:20px;
+padding-left:28px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#0077B4;
+padding-top:6px; padding-bottom:6px;
+}
+.bul a{
+color:#0077B4;
+text-decoration:none;
+}
+.bul a:hover{
+color:#FFCC00;
+text-decoration:none;
+}
+.field{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#999999;
+text-align:justify;
+}
+.body{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#9F9F9F;
+text-align:justify;
+}
+.body a{
+color:#006699;
+text-decoration:none;
+}
+.body a:hover{
+color:#CC0000;
+text-decoration:none;
+}
+.menu{
+font-family:Tahoma;
+font-size:11px;
+color:#555556;
+font-weight:bold;
+text-align:center;
+}
+.menu a{
+color:#555556;
+text-decoration:none;
+}
+.menu a:hover{
+color:#005BA2;
+text-decoration:none;
+}
+pre{
+padding:0px;
+margin:0px;
+}
+.footer{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#656565;
+text-align:center;
+line-height:19px;
+}
+.footer a{
+color:#656565;
+text-decoration:none;
+}
+.footer a:hover{
+color:#CC0000;
+text-decoration:none;
+}
+.style1 {color: #FFFFFF}
+.style2 {
+	color: #26BAFF;
+	font-weight: bold;
+}
